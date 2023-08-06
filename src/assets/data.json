@@ -1,0 +1,250 @@
+{
+  "tourists": [
+    {
+      "name": "Tourist 1",
+      "location": "Hungary",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/estoniaguide1.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 2",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/hiiumaa.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 3",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/image.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Narva Castle",
+      "location": "Estonia",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/narva_castle.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 5",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/parnu.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 6",
+      "location": "France",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/rakvere_castle.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 7",
+      "location": "Mexico",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/viljandi.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 8",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/estoniaguide1.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 9",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/hiiumaa.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 10",
+      "location": "Belgium",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/image.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 11",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/narva_castle.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 12",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/parnu.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 13",
+      "location": "France",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/rakvere_castle.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 14",
+      "location": "Mexico",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/viljandi.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 15",
+      "location": "Belgium",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/estoniaguide1.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 16",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/hiiumaa.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 17",
+      "location": "Netherlands",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/image.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 18",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/narva_castle.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 19",
+      "location": "Romania",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/parnu.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 20",
+      "location": "France",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/rakvere_castle.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 21",
+      "location": "Mexico",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/viljandi.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 19",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/parnu.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 20",
+      "location": "France",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/rakvere_castle.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 21",
+      "location": "Mexico",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/viljandi.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 19",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/parnu.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 20",
+      "location": "France",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/rakvere_castle.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 21",
+      "location": "Mexico",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/viljandi.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 22",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/parnu.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 23",
+      "location": "France",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/rakvere_castle.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 24",
+      "location": "Mexico",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/viljandi.jpg",
+      "rating": 5,
+      "favorite": true
+    },
+    {
+      "name": "Tourist 25",
+      "location": "United States",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/parnu.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 26",
+      "location": "France",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/rakvere_castle.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Tourist 27",
+      "location": "Mexico",
+      "description": "The city of Narva is the easternmost tourist in the country, not to mention the entire European Union. The city was heavily bombed during World War II, but thankfully the beautiful and historic Narva Castle still stands. ",
+      "picture": "/assets/images/viljandi.jpg",
+      "rating": 5,
+      "favorite": true
+    }
+  ]
+}

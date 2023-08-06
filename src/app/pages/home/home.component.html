@@ -1,0 +1,28 @@
+<div
+  class="main-container"
+  infinite-scroll
+  (scrolled)="onScrollDown()"
+  [infiniteScrollDistance]="scrollDistance"
+  [infiniteScrollUpDistance]="scrollUpDistance"
+  [infiniteScrollThrottle]="throttle"
+>
+  <form class="form-inline my-2 my-lg-0 px-4 d-flex">
+    <div class="col-md-4">
+      <input
+        class="form-control mr-sm-2"
+        type="search"
+        placeholder="Search"
+        aria-label="Search"
+        [formControl]="searchtouristControl"
+      />
+    </div>
+  </form>
+  <div class="d-flex flex-wrap">
+    <app-card
+      class="col-md-4 p-4"
+      *ngFor="let item of filteredData"
+      [tourist]="item"
+    ></app-card>
+  </div>
+  <app-loading [loading]="loading" class="loading-container"></app-loading>
+</div>

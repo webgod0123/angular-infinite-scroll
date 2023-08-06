@@ -1,0 +1,29 @@
+<div
+  *ngIf="tourist"
+  class="rounded-3 overflow-hidden shadow position-relative"
+>
+  <div class="position-absolute top-0 end-0 p-3">
+    <i
+      [ngClass]="{
+        'text-danger': tourist.favorite,
+        'text-white': !tourist.favorite
+      }"
+      class="bi bi-heart-fill h4 cursor-pointer"
+    ></i>
+  </div>
+  <img [src]="tourist.picture" alt="tuorist" class="card-img" />
+  <div class="bg-white p-4">
+    <div>
+      <i class="bi bi-star-fill text-warning h4"></i>
+      <i class="bi bi-star-fill text-warning h4"></i>
+      <i class="bi bi-star-fill text-warning h4"></i>
+      <i class="bi bi-star-fill text-warning h4"></i>
+      <i class="bi bi-star-fill text-warning h4"></i>
+    </div>
+    <h2 class="fw-bold mt-2">{{ tourist.name }}</h2>
+    <p>{{ tourist.description }}</p>
+    <p>
+      Location: <b>{{ tourist.location }}</b>
+    </p>
+  </div>
+</div>
